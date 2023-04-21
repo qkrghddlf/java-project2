@@ -5,6 +5,7 @@ public class Point {
     public int y;
 
     boolean isSameXY() {
+
         return x == y;
     }
 }
