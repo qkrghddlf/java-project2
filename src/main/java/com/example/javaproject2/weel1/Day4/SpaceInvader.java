@@ -20,5 +20,7 @@ public class SpaceInvader {
         si.moveright();
         si.moveright();
 
+        System.out.println(si.location);
+
     }
 }
